@@ -1,0 +1,10 @@
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\bin\Debug\FernandezBatoBatoPick.exe.config
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\bin\Debug\FernandezBatoBatoPick.exe
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\bin\Debug\FernandezBatoBatoPick.pdb
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.csproj.AssemblyReference.cache
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.Form1.resources
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.Properties.Resources.resources
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.csproj.GenerateResource.cache
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.csproj.CoreCompileInputs.cache
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.exe
+D:\Kianna\Programming\EDP\Group 7\Others\FernandezBatoBatoPick\FernandezBatoBatoPick\obj\Debug\FernandezBatoBatoPick.pdb
